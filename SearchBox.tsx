@@ -1,1 +1,0 @@
-export default function Add(){return <div>Add Student Form</div>}

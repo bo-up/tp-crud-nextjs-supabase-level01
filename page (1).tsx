@@ -1,1 +1,0 @@
-import Link from "next/link";export default function Home(){return <div className="p-6"><h1>Template A Core</h1><Link href="/students">Students</Link></div>}

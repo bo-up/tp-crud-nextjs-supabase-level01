@@ -1,1 +1,6 @@
-export default function Navbar(){return <nav>Home | Students</nav>}
+{
+  "name":"template-a-full",
+  "private":true,
+  "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies":{"next":"latest","react":"latest","react-dom":"latest","@supabase/supabase-js":"latest"}
+}

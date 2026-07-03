@@ -1,0 +1,1 @@
+'use client';import {useState} from 'react';export default function Students(){const [q,setQ]=useState('');return <div><h1>Students</h1><input value={q} onChange={e=>setQ(e.target.value)} placeholder="Search"/></div>}

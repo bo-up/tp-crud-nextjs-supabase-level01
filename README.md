@@ -1,1 +1,11 @@
-export default function SearchBox(){return <input placeholder="Search"/>}
+# Template A Full
+
+Features
+- CRUD
+- Search
+- Supabase
+- Vercel
+
+Setup
+1. npm install
+2. npm run dev

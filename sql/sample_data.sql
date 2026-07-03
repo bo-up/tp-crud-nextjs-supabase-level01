@@ -1,0 +1,1 @@
+INSERT INTO student(code,fullname,major) VALUES ('661001','Somchai','IT'),('661002','Suda','CS');
